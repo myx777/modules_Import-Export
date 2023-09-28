@@ -1,5 +1,5 @@
 # Домашнее задание к лекции «Модули»
-## Задание webpack
+## Задание webpackimport/export
 
 Использованные зависимости:
 1. `npm i -D webpack webpack-cli` 
@@ -9,3 +9,4 @@
 5. `npm i -D html-webpack-plugin`
 6. `npm i -D mini-css-extract-plugin`
 7. `npm i -D webpack-dev-server`
+
