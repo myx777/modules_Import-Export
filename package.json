@@ -1,0 +1,23 @@
+{
+  "name": "modules_import-export",
+  "version": "1.0.0",
+  "description": "## Задание webpackimport/export",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server src -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/myx777/modules_Import-Export.git"
+  },
+  "author": "myx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myx777/modules_Import-Export/issues"
+  },
+  "homepage": "https://github.com/myx777/modules_Import-Export#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

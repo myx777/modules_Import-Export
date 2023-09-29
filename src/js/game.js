@@ -1,14 +1,21 @@
+import Character from './domain.js';
+
 class Game {
-    start() {
-      console.log('game started');
-    }
+  start() {
+    console.log('game started');
+  }
 }
-  
-class GameSavingData {
+
+export default Game;
+
+export class GameSavingData {
+
 }
-  
-function readGameSaving() {
+
+export function readGameSaving() {
+
 }
-  
-function writeGameSaving() {
+
+export function writeGameSaving() {
+
 }

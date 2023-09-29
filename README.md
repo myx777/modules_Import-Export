@@ -43,3 +43,6 @@ game.start();`
 Экспорт из модуля game класса Game в качестве дефолтного, класса GameSavingData и функций readGameSaving и writeGameSaving
 В модуле app.js одним импортом импортируйте Game, GameSavingData и функции readGameSaving, writeGameSaving (их при импорте переименуйте в loadGame и saveGame соответственно)
 С самими функциями и классами ничего делать не нужно, нужно только правильно расставить инструкции import/export.
+
+install server
+`npm i -D http-server`
